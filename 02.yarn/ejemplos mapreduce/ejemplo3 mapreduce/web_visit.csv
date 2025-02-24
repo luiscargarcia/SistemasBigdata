@@ -1,0 +1,11 @@
+PersonID,VisitDate,ProductType,ProductID
+1,2025-01-01,Electronics,101
+2,2025-01-02,Clothing,102
+1,2025-01-03,Electronics,103
+3,2025-01-04,Books,104
+2,2025-01-05,Clothing,105
+3,2025-01-06,Electronics,106
+4,2025-01-07,Books,107
+4,2025-01-08,Clothing,108
+5,2025-01-09,Electronics,109
+5,2025-01-10,Books,110

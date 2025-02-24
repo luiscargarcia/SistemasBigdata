@@ -1,0 +1,11 @@
+ID,Date,Product,Category,Amount,Payment_Type,Name,Country
+1,2025-01-01,Product1,Category1,100,Credit Card,John Doe,USA
+2,2025-01-02,Product2,Category2,200,PayPal,Jane Smith,Canada
+3,2025-01-03,Product3,Category1,150,Credit Card,Emily Davis,USA
+4,2025-01-04,Product4,Category3,300,Debit Card,Michael Brown,UK
+5,2025-01-05,Product5,Category2,250,PayPal,Jessica Wilson,Canada
+6,2025-01-06,Product6,Category1,100,Credit Card,Daniel Johnson,USA
+7,2025-01-07,Product7,Category3,350,Debit Card,Laura Martinez,Spain
+8,2025-01-08,Product8,Category2,400,PayPal,David Lee,Australia
+9,2025-01-09,Product9,Category1,200,Credit Card,Sarah Kim,USA
+10,2025-01-10,Product10,Category3,500,Debit Card,Chris Evans,UK

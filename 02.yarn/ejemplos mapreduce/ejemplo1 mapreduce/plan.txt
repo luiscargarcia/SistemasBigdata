@@ -1,0 +1,12 @@
+SalesCountry/
+├── SalesMapper.java
+├── SalesCountryReducer.java
+├── SalesCountryDriver.java
+
+javac -classpath $(hadoop classpath) -d . SalesCountry/*.java
+
+
+jar -cvf SalesCountry.jar -C . SalesCountry
+
+hadoop jar SalesCountry.jar SalesCountry.SalesCountryDriver /input/sales_data.csv /output
+
